@@ -1,0 +1,10 @@
+.home {
+  width: 595px * 2;
+  height: 842px * 2;
+  background: red;
+
+  &.sidebar {
+    width: 3/5%;
+    color: white;
+  }
+}
