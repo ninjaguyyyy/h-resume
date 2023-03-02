@@ -2,19 +2,20 @@
 
 .home {
   width: 595px;
-  height: 982px;
+  height: 100%;
   background: $red-color;
   display: flex;
   width: 100%;
 
   &__side {
-    width: 35%;
+    width: 45%;
     color: $red-color;
+    height: 100%;
 
     &__wrapper {
       background: #fff;
       margin: 0px 20px 50px 40px;
-      height: 60%;
+      height: 65%;
       border-bottom-left-radius: 30px;
       border-bottom-right-radius: 30px;
 
